@@ -182,12 +182,12 @@
 <text x="7.14375" y="11.90625" size="0.8128" layer="22" font="vector" ratio="15" rot="MR180">GND</text>
 <text x="11.58875" y="11.90625" size="0.8128" layer="21" font="vector" ratio="15" rot="R180">DO</text>
 <text x="10.00125" y="11.90625" size="0.8128" layer="22" font="vector" ratio="15" rot="MR180">DO</text>
-<text x="11.27125" y="4.1275" size="0.8128" layer="22" font="vector" ratio="15" rot="MR0">DI</text>
-<text x="9.36625" y="4.1275" size="0.8128" layer="22" font="vector" ratio="15" rot="MR0">GND</text>
+<text x="11.43" y="4.1275" size="0.8128" layer="22" font="vector" ratio="15" rot="MR0">DI</text>
+<text x="9.2075" y="4.1275" size="0.8128" layer="22" font="vector" ratio="15" rot="MR0">GND</text>
 <text x="6.35" y="4.1275" size="0.8128" layer="22" font="vector" ratio="15" rot="MR0">5V</text>
-<text x="8.09625" y="8.41375" size="0.8128" layer="22" font="vector" ratio="20" rot="SMR0" align="center">Desert Bloom
+<text x="8.255" y="8.255" size="0.8128" layer="22" font="vector" ratio="20" rot="SMR0" align="center">Desert Bloom
 Addressable
-RGB LED</text>
+LED</text>
 </plain>
 <libraries>
 <library name="SparkFun-Capacitors">
